@@ -1,0 +1,22 @@
+[
+  {"question": "How many vacation days does a new hire get?", "doc": "northwind", "page": 2},
+  {"question": "Can unused holidays be carried into next year?", "doc": "northwind", "page": 2},
+  {"question": "When do I need a doctor's note if I'm sick?", "doc": "northwind", "page": 2},
+  {"question": "How long is leave for a non-birthing parent?", "doc": "northwind", "page": 2},
+  {"question": "Can I work from abroad for a few weeks?", "doc": "northwind", "page": 1},
+  {"question": "How many days per week can I work from home?", "doc": "northwind", "page": 1},
+  {"question": "What are the core collaboration hours?", "doc": "northwind", "page": 1},
+  {"question": "How is overtime compensated?", "doc": "northwind", "page": 1},
+  {"question": "What is the maximum hotel cost per night?", "doc": "northwind", "page": 3},
+  {"question": "Deadline for submitting expense receipts", "doc": "northwind", "page": 3},
+  {"question": "What should I do if my laptop is stolen?", "doc": "northwind", "page": 3},
+  {"question": "Do I have to declare gifts from suppliers?", "doc": "northwind", "page": 3},
+  {"question": "Is the thermostat compatible with electric baseboard heaters?", "doc": "aurora", "page": 1},
+  {"question": "Which terminal does the yellow wire go to?", "doc": "aurora", "page": 1},
+  {"question": "My system has no C-wire, what can I do?", "doc": "aurora", "page": 2},
+  {"question": "Does it work on 5 GHz Wi-Fi?", "doc": "aurora", "page": 2},
+  {"question": "How much can Eco mode save?", "doc": "aurora", "page": 2},
+  {"question": "Screen shows E4", "doc": "aurora", "page": 3},
+  {"question": "How do I wipe all settings and start over?", "doc": "aurora", "page": 3},
+  {"question": "How long is the warranty?", "doc": "aurora", "page": 3}
+]

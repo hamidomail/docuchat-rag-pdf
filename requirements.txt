@@ -1,0 +1,8 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pypdf>=5.0
+numpy>=1.26
+httpx>=0.27
+# Optional: local embeddings without an API (EMBEDDINGS_PROVIDER=sentence-transformers)
+# sentence-transformers>=3.0
